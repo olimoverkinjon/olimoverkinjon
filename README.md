@@ -14,7 +14,7 @@
 
 ### 👋 About me
 
-- Co-founder and Media & Sales lead at **VodiySOFT**, an IT services company
+- Co-founder and Media & Sales lead at **LocalDev**, an IT services company
 - Build Telegram bots, Mini Apps and web products, from idea to deployment
 - Run Telegram Ads campaigns for businesses as an independent consultant
 - Final-year Internet & ICT student at Korea International University in Fergana
